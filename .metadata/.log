@@ -1,0 +1,192 @@
+!SESSION 2021-10-09 13:34:54.846 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.8.0_292
+java.vendor=Private Build
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2021-10-09 13:42:28.433
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2021-10-09 13:42:28.433
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-10-09 13:42:28.433
+!MESSAGE Software being installed: C/C++ Call Graph Visualization (Incubation) 0.9.0.201202152032 (org.eclipse.linuxtools.callgraph.feature.feature.group 0.9.0.201202152032)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-10-09 13:42:28.433
+!MESSAGE Software being installed: C/C++ Call Graph Visualization (Incubation) 0.0.2.201108301805 (org.eclipse.linuxtools.callgraph.feature.group 0.0.2.201108301805)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-10-09 13:42:28.433
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-10-09 13:42:28.433
+!MESSAGE Callgraph Launch (Incubation) 0.9.0.201202152032 (org.eclipse.linuxtools.callgraph.launch 0.9.0.201202152032)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-10-09 13:42:28.433
+!MESSAGE Callgraph Launch (Incubation) 0.0.1.201108301805 (org.eclipse.linuxtools.callgraph.launch 0.0.1.201108301805)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-10-09 13:42:28.433
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-10-09 13:42:28.433
+!MESSAGE From: C/C++ Call Graph Visualization (Incubation) 0.9.0.201202152032 (org.eclipse.linuxtools.callgraph.feature.feature.group 0.9.0.201202152032)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-10-09 13:42:28.433
+!MESSAGE To: org.eclipse.linuxtools.callgraph.launch [0.9.0.201202152032]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-10-09 13:42:28.433
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-10-09 13:42:28.433
+!MESSAGE From: C/C++ Call Graph Visualization (Incubation) 0.0.2.201108301805 (org.eclipse.linuxtools.callgraph.feature.group 0.0.2.201108301805)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-10-09 13:42:28.433
+!MESSAGE To: org.eclipse.linuxtools.callgraph.launch [0.0.1.201108301805]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2021-10-09 13:42:28.437
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2021-10-09 13:42:28.437
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-10-09 13:42:28.437
+!MESSAGE Software being installed: C/C++ Call Graph Visualization (Incubation) 0.9.0.201202152032 (org.eclipse.linuxtools.callgraph.feature.feature.group 0.9.0.201202152032)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-10-09 13:42:28.437
+!MESSAGE Software being installed: C/C++ Call Graph Visualization (Incubation) 0.0.2.201108301805 (org.eclipse.linuxtools.callgraph.feature.group 0.0.2.201108301805)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-10-09 13:42:28.437
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-10-09 13:42:28.437
+!MESSAGE Callgraph Launch (Incubation) 0.9.0.201202152032 (org.eclipse.linuxtools.callgraph.launch 0.9.0.201202152032)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-10-09 13:42:28.437
+!MESSAGE Callgraph Launch (Incubation) 0.0.1.201108301805 (org.eclipse.linuxtools.callgraph.launch 0.0.1.201108301805)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-10-09 13:42:28.437
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-10-09 13:42:28.437
+!MESSAGE From: C/C++ Call Graph Visualization (Incubation) 0.9.0.201202152032 (org.eclipse.linuxtools.callgraph.feature.feature.group 0.9.0.201202152032)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-10-09 13:42:28.437
+!MESSAGE To: org.eclipse.linuxtools.callgraph.launch [0.9.0.201202152032]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-10-09 13:42:28.437
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-10-09 13:42:28.438
+!MESSAGE From: C/C++ Call Graph Visualization (Incubation) 0.0.2.201108301805 (org.eclipse.linuxtools.callgraph.feature.group 0.0.2.201108301805)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-10-09 13:42:28.438
+!MESSAGE To: org.eclipse.linuxtools.callgraph.launch [0.0.1.201108301805]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2021-10-09 13:43:03.206
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2021-10-09 13:43:03.207
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-10-09 13:43:03.207
+!MESSAGE Software being installed: C/C++ Library API Documentation Hover Help (Incubation) 0.3.0.201202152032 (org.eclipse.linuxtools.cdt.libhover.feature.feature.group 0.3.0.201202152032)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-10-09 13:43:03.207
+!MESSAGE Software being installed: C/C++ Library API Documentation Hover Help (Incubation) 0.3.0.201108301805 (org.eclipse.linuxtools.cdt.libhover.feature.group 0.3.0.201108301805)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-10-09 13:43:03.207
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-10-09 13:43:03.207
+!MESSAGE Glibc Libhover (Incubation) 1.1.0.201202152032 (org.eclipse.linuxtools.cdt.libhover.glibc 1.1.0.201202152032)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-10-09 13:43:03.207
+!MESSAGE Glibc Libhover (Incubation) 1.1.0.201108301805 (org.eclipse.linuxtools.cdt.libhover.glibc 1.1.0.201108301805)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-10-09 13:43:03.207
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-10-09 13:43:03.207
+!MESSAGE From: C/C++ Library API Documentation Hover Help (Incubation) 0.3.0.201202152032 (org.eclipse.linuxtools.cdt.libhover.feature.feature.group 0.3.0.201202152032)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-10-09 13:43:03.207
+!MESSAGE To: org.eclipse.linuxtools.cdt.libhover.glibc [1.1.0.201202152032]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-10-09 13:43:03.215
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-10-09 13:43:03.215
+!MESSAGE From: C/C++ Library API Documentation Hover Help (Incubation) 0.3.0.201108301805 (org.eclipse.linuxtools.cdt.libhover.feature.group 0.3.0.201108301805)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-10-09 13:43:03.215
+!MESSAGE To: org.eclipse.linuxtools.cdt.libhover.glibc [1.1.0.201108301805]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2021-10-09 13:43:03.216
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2021-10-09 13:43:03.216
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-10-09 13:43:03.216
+!MESSAGE Software being installed: C/C++ Library API Documentation Hover Help (Incubation) 0.3.0.201202152032 (org.eclipse.linuxtools.cdt.libhover.feature.feature.group 0.3.0.201202152032)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-10-09 13:43:03.216
+!MESSAGE Software being installed: C/C++ Library API Documentation Hover Help (Incubation) 0.3.0.201108301805 (org.eclipse.linuxtools.cdt.libhover.feature.group 0.3.0.201108301805)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-10-09 13:43:03.216
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-10-09 13:43:03.216
+!MESSAGE Glibc Libhover (Incubation) 1.1.0.201202152032 (org.eclipse.linuxtools.cdt.libhover.glibc 1.1.0.201202152032)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-10-09 13:43:03.217
+!MESSAGE Glibc Libhover (Incubation) 1.1.0.201108301805 (org.eclipse.linuxtools.cdt.libhover.glibc 1.1.0.201108301805)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-10-09 13:43:03.217
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-10-09 13:43:03.217
+!MESSAGE From: C/C++ Library API Documentation Hover Help (Incubation) 0.3.0.201202152032 (org.eclipse.linuxtools.cdt.libhover.feature.feature.group 0.3.0.201202152032)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-10-09 13:43:03.217
+!MESSAGE To: org.eclipse.linuxtools.cdt.libhover.glibc [1.1.0.201202152032]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-10-09 13:43:03.217
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-10-09 13:43:03.217
+!MESSAGE From: C/C++ Library API Documentation Hover Help (Incubation) 0.3.0.201108301805 (org.eclipse.linuxtools.cdt.libhover.feature.group 0.3.0.201108301805)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-10-09 13:43:03.217
+!MESSAGE To: org.eclipse.linuxtools.cdt.libhover.glibc [1.1.0.201108301805]
+!SESSION 2021-10-09 13:46:03.085 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.8.0_292
+java.vendor=Private Build
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2021-10-09 13:48:19.816
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10011 2021-10-09 13:48:19.816
+!MESSAGE "Object Teams Patch for JDT/Core" is not applicable to the current configuration and will not be installed.
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2021-10-09 13:48:19.818
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10011 2021-10-09 13:48:19.819
+!MESSAGE "Object Teams Patch for JDT/Core" is not applicable to the current configuration and will not be installed.
+!SESSION 2021-10-09 13:50:47.541 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.8.0_292
+java.vendor=Private Build
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2021-10-09 13:53:11.549
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10050 2021-10-09 13:53:11.549
+!MESSAGE Cannot complete the request.  See the error log for details.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10005 2021-10-09 13:53:11.549
+!MESSAGE "Autotools support for CDT (Incubation)" will be ignored because it is already installed.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10005 2021-10-09 13:53:11.550
+!MESSAGE "C/C++ Development Tools" will be ignored because it is already installed.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10005 2021-10-09 13:53:11.551
+!MESSAGE "C/C++ Development Tools SDK" will be ignored because it is already installed.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10005 2021-10-09 13:53:11.551
+!MESSAGE "CDT Visual C++ Support" will be ignored because it is already installed.
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2021-10-09 13:53:11.559
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10050 2021-10-09 13:53:11.559
+!MESSAGE Cannot complete the request.  See the error log for details.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10005 2021-10-09 13:53:11.559
+!MESSAGE "Autotools support for CDT (Incubation)" will be ignored because it is already installed.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10005 2021-10-09 13:53:11.559
+!MESSAGE "C/C++ Development Tools" will be ignored because it is already installed.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10005 2021-10-09 13:53:11.559
+!MESSAGE "C/C++ Development Tools SDK" will be ignored because it is already installed.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10005 2021-10-09 13:53:11.559
+!MESSAGE "CDT Visual C++ Support" will be ignored because it is already installed.
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-10-09 13:54:41.453
+!MESSAGE Indexed 'TestSdl2_01-master' (1 sources, 13 headers) in 1.07 sec: 80 declarations; 154 references; 17 unresolved inclusions; 0 syntax errors; 100 unresolved names (29.94%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-10-09 14:00:14.648
+!MESSAGE Indexed 'hjhjj' (1 sources, 150 headers) in 8.72 sec: 9,818 declarations; 15,014 references; 0 unresolved inclusions; 7 syntax errors; 1,087 unresolved names (4.19%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-10-09 14:03:04.802
+!MESSAGE Indexed 'TestSdl2_01-master' (1 sources, 84 headers) in 2.25 sec: 2,877 declarations; 3,336 references; 2 unresolved inclusions; 0 syntax errors; 74 unresolved names (1.18%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-10-09 14:04:58.145
+!MESSAGE Indexed 'TestSdl2_01-master' (1 sources, 84 headers) in 0.64 sec: 2,877 declarations; 3,336 references; 2 unresolved inclusions; 0 syntax errors; 74 unresolved names (1.18%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-10-09 14:06:56.625
+!MESSAGE Indexed 'TestSdl2_01-master' (1 sources, 84 headers) in 0.77 sec: 2,877 declarations; 3,336 references; 2 unresolved inclusions; 0 syntax errors; 74 unresolved names (1.18%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-10-09 14:10:37.047
+!MESSAGE Indexed 'TestSdl2_01-master' (1 sources, 84 headers) in 0.84 sec: 2,877 declarations; 3,336 references; 2 unresolved inclusions; 0 syntax errors; 74 unresolved names (1.18%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-10-09 14:13:04.080
+!MESSAGE Indexed 'Slot_SDL2' (0 sources, 78 headers) in 0.61 sec: 2,262 declarations; 2,605 references; 0 unresolved inclusions; 0 syntax errors; 2 unresolved names (0.04%)
+!SESSION 2021-10-09 14:43:34.145 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.8.0_292
+java.vendor=Private Build
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-10-09 14:44:29.797
+!MESSAGE Indexed 'Slot_SDL1' (0 sources, 78 headers) in 2.48 sec: 2,262 declarations; 2,605 references; 0 unresolved inclusions; 0 syntax errors; 2 unresolved names (0.04%)
